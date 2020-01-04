@@ -3,9 +3,9 @@
 def display_board(board)
   cellrow = "   |   |   "
   lines = "-----------"
-puts cellrow
-puts lines
-puts cellrow
-puts lines
-puts cellrow
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
 end
